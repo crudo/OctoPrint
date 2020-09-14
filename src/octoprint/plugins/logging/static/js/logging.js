@@ -123,6 +123,9 @@ $(function() {
                 + gettext("It can negatively impact print performance and also take up a lot of storage space " +
                     "depending on how long you stay connected to your printer and thus should only be used for " +
                     "debugging.")
+                "</p><p>" 
+                + gettext("You can disable <code>serial.log</code> in " +
+                "<em>Settings > Serial Connection > General > Serial logging</em>.")
                 + "</p>";
 
             if (free !== undefined && total !== undefined) {

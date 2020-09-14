@@ -1594,6 +1594,12 @@ msgid ""
 "and thus should only be used for debugging."
 msgstr ""
 
+#: src/octoprint/plugins/logging/static/js/logging.js:127
+msgid ""
+"You can disable <code>serial.log</code> in "
+"<em>Settings > Serial Connection > General > Serial logging</em>."
+msgstr ""
+
 #: src/octoprint/plugins/logging/static/js/logging.js:129
 msgid "Log storage:"
 msgstr ""
